@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Monsters/static/css/main.51acf02f.chunk.css",
+    "main.js": "/React-Monsters/static/js/main.8fb1ec6b.chunk.js",
+    "main.js.map": "/React-Monsters/static/js/main.8fb1ec6b.chunk.js.map",
+    "runtime-main.js": "/React-Monsters/static/js/runtime-main.5eae8e8b.js",
+    "runtime-main.js.map": "/React-Monsters/static/js/runtime-main.5eae8e8b.js.map",
+    "static/js/2.95745b7c.chunk.js": "/React-Monsters/static/js/2.95745b7c.chunk.js",
+    "static/js/2.95745b7c.chunk.js.map": "/React-Monsters/static/js/2.95745b7c.chunk.js.map",
+    "static/js/3.5c1314e5.chunk.js": "/React-Monsters/static/js/3.5c1314e5.chunk.js",
+    "static/js/3.5c1314e5.chunk.js.map": "/React-Monsters/static/js/3.5c1314e5.chunk.js.map",
+    "index.html": "/React-Monsters/index.html",
+    "static/css/main.51acf02f.chunk.css.map": "/React-Monsters/static/css/main.51acf02f.chunk.css.map",
+    "static/js/2.95745b7c.chunk.js.LICENSE.txt": "/React-Monsters/static/js/2.95745b7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Monsters/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eae8e8b.js",
+    "static/js/2.95745b7c.chunk.js",
+    "static/css/main.51acf02f.chunk.css",
+    "static/js/main.8fb1ec6b.chunk.js"
+  ]
+}
